@@ -1,0 +1,3 @@
+Produto: Teclado | Qtd: 1 | Preço Unitário: R$ 250.00
+Produto: Mouse | Qtd: 2 | Preço Unitário: R$ 60.00
+Produto: Fone | Qtd: 1 | Preço Unitário: R$ 50.00
