@@ -20,7 +20,7 @@ public class Main {
         double nota3 = sc.nextDouble();
 
         Aluno a1 = new Aluno(nome, matricula, nota1, nota2, nota3);
-        System.out.printf("Média: %.2f\n", a1.calcularMedia());
+        System.out.printf("Média: %.1f\n", a1.calcularMedia());
         a1.verificaAprovacao();
     }
 }
